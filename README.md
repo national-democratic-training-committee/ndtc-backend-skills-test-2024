@@ -48,9 +48,7 @@ some things this entity should track
 * Add / update / read events and attendances
 * Filter and order results based on fields 
 order candidates based on money raised, attendance, donations of events
-
-* Bonus:
-*   Generate a time series graph showing attendance / donation amount / volunteer signups of candidates over time
+* *Bonus*: Generate a time series graph showing attendance / donation amount / volunteer signups of candidates over time
 * Build this using any db or framework that makes sense to you
 * Implement some type of caching plan 
 * Have a deployment plan ready to walk thru and discuss
