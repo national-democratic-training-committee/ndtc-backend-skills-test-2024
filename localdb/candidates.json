@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "firstName": "Satine",
+    "lastName": "Kryze",
+    "district": "Mandalore",
+    "office": "Mandalor"
+  },
+  {
+    "id": "2",
+    "firstName": "Mon",
+    "lastName": "Mothma",
+    "district": "Chandrila",
+    "office": "Senator"
+  },
+  {
+    "id": "3",
+    "firstName": "Padme",
+    "lastName": "Amidala",
+    "district": "Naboo",
+    "office": "Senator"
+  }
+]

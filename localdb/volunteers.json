@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "campaignId": "2",
+    "name": "Leia Organa",
+    "role": "Volunteer"
+  },
+  {
+    "id": "2",
+    "campaignId": "2",
+    "name": "Luke Skywalker",
+    "role": "Volunteer"
+  },
+  {
+    "id": "3",
+    "campaignId": "1",
+    "name": "Ashoka",
+    "role": "Volunteer"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "First Last",
+    "contactInfo": "firstlast@email.com",
+    "interestedInVolunteering": true,
+    "volunteerRoles": [
+      "volunteer",
+      "coordinator"
+    ],
+    "donationAmount": 100
+  },
+  {
+    "id": "2",
+    "name": "Jane Goodall",
+    "contactInfo": "janegoodall@email.com",
+    "interestedInVolunteering": true,
+    "donationAmount": 100
+  },
+  {
+    "id": "3",
+    "name": "Jane Doe",
+    "contactInfo": "janedoe@email.com",
+    "interestedInVolunteering": false,
+    "donationAmount": 1000
+  }
+]
