@@ -46,7 +46,7 @@ app.get('/money-raised', async (req: Request, res: Response) => {
 
 // GET candidates info with donation money raised
 /*
-curl http://localhost:3000/v1/campaigns/money-raised?sort=asc
+curl http://localhost:3000/v1/campaigns/donations?sort=asc
 */
 app.get('/donations', async (req: Request, res: Response) => {
   try {

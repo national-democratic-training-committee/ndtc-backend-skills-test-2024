@@ -39,7 +39,7 @@
 - This one will need a little more research, we could build our own or utilize a monitoring framework, there's pros and cons to each
 - Requirements:
   - Have monitoring / graphs for both business and errors
-  - Track reliability, availability
+  - Track reliability, availability, able to filter using a time range, able to output a report based on time range
   - Should refresh itself by pulling data automatically, should track if this service fails
 
 ### 4. Rollback Plan <a name="rollback-plan"></a>
@@ -59,8 +59,12 @@
   - Logging
     - In order to achieve the monitoring objective, we'll need a way to log our errors and any other data
     - Client side and server side errors should be separated
+  - Documentation
+    - There's example curl commands as comments but these should live in their own docs
 
 - Nice to haves:
+  - Batch Calls, Additional API routes
+    - There's a bit of this already in the routes for candidates and volunteers but this should be implemented in events and attendances as well
   - Feature Flags
   - More Sensible Error Messages for the API callee
 
