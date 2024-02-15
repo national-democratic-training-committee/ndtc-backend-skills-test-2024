@@ -1,13 +1,5 @@
 # ndtc-backend-skills-test-2024
 
-### Jen's notes 
-
-#### Tech Stack
-* TypeScript
-* Node.js
-
-<hr/>
-
 ## Assessment requirements 
 
 Develop a backend REST service to organize and rolodex campaign personnel as well as metrics of campaign events 
